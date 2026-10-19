@@ -1,0 +1,29 @@
+[
+  {
+    "id": "em_001",
+    "sender": "john@example.com",
+    "subject": "How to change website logo?",
+    "body": "I'm trying to update my website logo on Brilliant Directories but I can't find where to upload it. Can you help?",
+    "category": "How-to",
+    "receivedAt": "2026-10-18T10:00:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "em_002",
+    "sender": "sarah@business.com",
+    "subject": "New project request: Custom Search Filter",
+    "body": "We need a custom search filter for our members. Is this something you can build?",
+    "category": "Project Request",
+    "receivedAt": "2026-10-18T11:30:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "em_003",
+    "sender": "mike@refund.com",
+    "subject": "Refund request for last month",
+    "body": "I was overcharged for the premium plan. I'd like a refund for the difference.",
+    "category": "Refund",
+    "receivedAt": "2026-10-19T09:15:00Z",
+    "status": "pending"
+  }
+]
